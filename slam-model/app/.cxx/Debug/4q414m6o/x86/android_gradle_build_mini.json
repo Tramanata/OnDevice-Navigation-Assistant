@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\trama\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\.cxx\\Debug\\4q414m6o\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\trama\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\.cxx\\Debug\\4q414m6o\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ondevicenavigation::@6890427a1f51a3e7e1df": {
+      "artifactName": "ondevicenavigation",
+      "abi": "x86",
+      "output": "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\build\\intermediates\\cxx\\Debug\\4q414m6o\\obj\\x86\\libondevicenavigation.so",
+      "runtimeFiles": []
+    }
+  }
+}

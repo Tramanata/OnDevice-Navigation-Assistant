@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\trama\OneDrive\Documents\GitHub\OnDevice-Navigation-Assistant\slam-model\app\.cxx\Debug\4q414m6o\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/ondevicenavigation.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library C:\Users\trama\OneDrive\Documents\GitHub\OnDevice-Navigation-Assistant\slam-model\app\build\intermediates\cxx\Debug\4q414m6o\obj\armeabi-v7a\libondevicenavigation.so

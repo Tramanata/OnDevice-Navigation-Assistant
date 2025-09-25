@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\trama\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\.cxx\\Debug\\4q414m6o\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\trama\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\.cxx\\Debug\\4q414m6o\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ondevicenavigation::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "ondevicenavigation",
+      "output": "C:\\Users\\trama\\OneDrive\\Documents\\GitHub\\OnDevice-Navigation-Assistant\\slam-model\\app\\build\\intermediates\\cxx\\Debug\\4q414m6o\\obj\\x86\\libondevicenavigation.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\trama\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\trama\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

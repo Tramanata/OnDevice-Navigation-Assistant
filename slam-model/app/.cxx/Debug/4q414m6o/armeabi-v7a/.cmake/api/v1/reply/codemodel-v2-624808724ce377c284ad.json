@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ondevicenavigation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ondevicenavigation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ondevicenavigation-Debug-1e25b83d788506107063.json",
+					"name" : "ondevicenavigation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/trama/OneDrive/Documents/GitHub/OnDevice-Navigation-Assistant/slam-model/app/.cxx/Debug/4q414m6o/armeabi-v7a",
+		"source" : "C:/Users/trama/OneDrive/Documents/GitHub/OnDevice-Navigation-Assistant/slam-model/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

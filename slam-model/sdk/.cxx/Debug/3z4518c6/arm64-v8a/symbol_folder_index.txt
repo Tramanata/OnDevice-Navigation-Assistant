@@ -1,0 +1,1 @@
+C:\Users\trama\OneDrive\Documents\GitHub\OnDevice-Navigation-Assistant\slam-model\sdk\build\intermediates\cxx\Debug\3z4518c6\obj\arm64-v8a

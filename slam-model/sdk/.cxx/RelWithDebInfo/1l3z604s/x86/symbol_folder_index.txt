@@ -1,0 +1,1 @@
+C:\Users\trama\OneDrive\Documents\GitHub\OnDevice-Navigation-Assistant\slam-model\sdk\build\intermediates\cxx\RelWithDebInfo\1l3z604s\obj\x86

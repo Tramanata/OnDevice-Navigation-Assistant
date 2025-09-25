@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\trama\OneDrive\Documents\GitHub\OnDevice-Navigation-Assistant\slam-model\app\.cxx\Debug\4q414m6o\x86_64'
+ninja: no work to do.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnDeviceNavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/OnDeviceNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OnDeviceNavigation.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk/OnDeviceNavigation.sdk.unitTest.iml" />
+    </modules>
+  </component>
+</project>
